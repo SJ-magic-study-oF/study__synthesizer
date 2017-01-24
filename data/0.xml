@@ -1,0 +1,28 @@
+<Parameters>
+    <MusicSync>0</MusicSync>
+    <Self_Rotaion>0</Self_Rotaion>
+    <countX>35</countX>
+	<stepX>81</stepX>
+	<twistX>-29.7</twistX>
+	<countY>19</countY>
+	<stepY>0</stepY>
+	<twistY>9.3</twistY>
+	<pinchY>0</pinchY>
+	<Global>
+		<g_Scale>0.586735</g_Scale>
+		<g_Rotate>0</g_Rotate>
+		<Background>0</Background>
+	</Global>
+	<Primitive>
+		<shiftY>469.388</shiftY>
+		<rotate>0</rotate>
+		<size_by_x>0</size_by_x>
+		<size>8.75469, 3.75677</size>
+		<color>53, 54, 255, 150</color>
+		<filled>0</filled>
+		<type>0</type>
+	<b_DynamicColor>0</b_DynamicColor>
+	</Primitive>
+<Self_Rotaion>0</Self_Rotaion>
+<LineWidth>1</LineWidth>
+</Parameters>
